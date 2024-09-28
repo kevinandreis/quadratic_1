@@ -5,17 +5,14 @@
 	<meta name="viewport" content="width=device-width, initial-scale=3.0">
 	<title>Document</title>
 </head>
-<body><h1>Discriminant of a Quadratic Equation</h1>
+<body><h1>
+Discriminant of a Quadratic Equation</h1>
 	
 <form action="index.php">
 		<p>A <input type="text" placeholder="Value of A" name="num1"></p>
-
 		<p>B <input type="text" placeholder="Value of B" name="num2"></p>
-
         <p>C <input type="text" placeholder="Value of C" name="num3"></p>
-
 		<p><input type="submit" value="SUBMIT" name="submitBtn"></p>
-
 	</form>
 </body>
 </html>
